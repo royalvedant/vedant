@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science engineer from India</h3>
 <img align="right” alt="coding” width="400" src=“[https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)"
 
-- 🌱 I’m currently learning **PYTHON,AIxPYTHON,DATA SCIENCE,COMPETITIVE CODING**
+- 🌱 I’m currently learning **PYTHON,DATA ANALYST,COMPETITIVE CODING**
 
 - 📫 How to reach me **vedantsonawane5012@gmail.com**
 
